@@ -46,6 +46,6 @@ public class DistanceFromAverage
          + (total * 1.0 / count));
       }//if
       else
-         System.out.println("No scores were entered.");
+         System.out.println("No distance was entered.");
    }//main
 }//class
